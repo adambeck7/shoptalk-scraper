@@ -1,0 +1,20 @@
+.deleteNote {
+  display: inline-block;
+}
+
+.previousNotes {
+  display: inline-block;
+  width: 90%;
+}
+
+#scrape {
+  margin: 1rem;
+}
+.navMargin {
+  margin-top: 1rem;
+}
+
+/* .jumbotron {
+  color: #f96c06;
+  background-color: black;
+} */
